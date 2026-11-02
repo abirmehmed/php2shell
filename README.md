@@ -27,6 +27,7 @@ It demonstrates that vulnerabilities can exist in the *interpreter itself* (writ
    - PHP Info: \`http://localhost:8080/info.php\`
 
 ## 🧠 What You Will Learn
+- How to simulate and analyze Out-Of-Memory (OOM) crash conditions.
 - How PHP interacts with web servers (Apache/CGI).
 - Why engine-level flaws (like Out-Of-Memory \`longjmp\` handling) affect *all* code running on that version.
 - How to identify vulnerable versions using \`phpinfo()\`.
